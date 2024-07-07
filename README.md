@@ -15,6 +15,13 @@ Copied example with file structure examples.
 Changing the image might be an issue, because of caching.
 
 
+Libraries available;
+
+![libraries](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/libs.puml)
+
+
+
+
 ## Example with embedded (to do)
 
 Code block with PlantUML. Adding a GitHub Action to generate the image; this is not needed using mermaid.js or on gitlab.
