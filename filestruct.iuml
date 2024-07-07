@@ -1,5 +1,4 @@
 @startuml
-!theme spacelab
 hide stereotype
 hide circle
 skinparam linetype polyline
