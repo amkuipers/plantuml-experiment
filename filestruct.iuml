@@ -1,0 +1,48 @@
+@startuml
+hide stereotype
+hide circle
+skinparam linetype polyline
+
+package ok{
+    class " **Flat Input** " as in2 {
+        identifier
+        input
+        date
+        value
+    }
+
+
+
+    class " **Flat Output** " as out2 {
+        identifier 
+        result
+        something
+        type
+        value
+        somethingElse
+    }
+
+in2::value -r-> out2::result
+}
+
+package nok{
+    class " **Input File** " as in {
+        --
+        |_ identifier
+        |_ input
+        |_ date
+        |_ value
+    }
+
+
+    class " **Output File** " as out {
+        --
+        |_ identifier 
+        |_ result
+        |_ something
+          |_ type
+          |_ value
+        |_ somethingElse
+    }
+}
+@enduml
