@@ -1,5 +1,5 @@
 # plantuml-experiment
-Experiment with PlantUML
+Experiment with PlantUML.
 
 
 ## Example with live generated image
@@ -12,6 +12,7 @@ Copied example with file structure examples.
 
 ![filestruct](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/filestruct.iuml)
 
+Changing the image might be an issue, because of caching.
 
 
 ## Example with embedded (to do)
