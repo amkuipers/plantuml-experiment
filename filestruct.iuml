@@ -23,6 +23,8 @@ package ok{
     }
 
 in2::value -r-> out2::result
+in2::value -r-> out2::value
+
 }
 
 package nok{
@@ -44,5 +46,7 @@ package nok{
           |_ value
         |_ somethingElse
     }
+in::"|_ value" -r-> out::"|_ value"
+
 }
 @enduml
