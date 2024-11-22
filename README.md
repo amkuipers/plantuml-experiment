@@ -14,6 +14,10 @@ Copied example with file structure examples.
 
 Changing the image ^^^ might be an **issue**, because of **caching**.
 
+![filestruct](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/filestruct.iuml&v=1)
+
+Changing the image ^^^ might be an **issue**, because of **caching**. Here I just added another parameter v=1 to test if that causes the cache to be ignored.
+
 
 Libraries available;
 
