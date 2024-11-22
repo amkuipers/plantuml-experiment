@@ -12,11 +12,9 @@ Copied example with file structure examples.
 
 ![filestruct](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/filestruct.iuml)
 
-Changing the image ^^^ might be an **issue**, because of **caching**.
+Changing the image ^^^ might be an **issue**, because of **caching** (on github or plantuml). This probably requires a rename of the file.
 
-![filestruct](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/filestruct.iuml&v=1)
-
-Changing the image ^^^ might be an **issue**, because of **caching**. Here I just added another parameter v=1 to test if that causes the cache to be ignored.
+![filestruct](http://www.plantuml.com/plantuml/proxy?cache=no&v=1&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/filestruct.iuml)
 
 
 Libraries available;
