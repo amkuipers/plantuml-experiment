@@ -12,7 +12,7 @@ Copied example with file structure examples.
 
 ![filestruct](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/amkuipers/plantuml-experiment/master/filestruct.iuml)
 
-Changing the image might be an issue, because of caching.
+Changing the image ^^^ might be an **issue**, because of **caching**.
 
 
 Libraries available;
